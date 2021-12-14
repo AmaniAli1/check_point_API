@@ -1,0 +1,10 @@
+body {
+  background: url(https://i.cdn-sc.com/MediaVaultImages/8399_thumbnail.jpg)
+    no-repeat center fixed;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
